@@ -1,5 +1,6 @@
-# README of the Developmental AI for ROS project
+### Authors: CHBAB Khalid & DRIOUCHE Adnane 
 
+# README of the Developmental AI for ROS project
 This repository provides code for practicing developmental AI in the [ROS](https://www.ros.org/) environment.
 
 world.py provides the general framework for implementing a developmental agent and testing it in rudimentary environments. 
